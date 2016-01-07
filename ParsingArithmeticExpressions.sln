@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParsingArithmeticExpressions", "ParsingArithmeticExpressions\ParsingArithmeticExpressions.vcxproj", "{53E0DE2E-D582-4AD4-A861-80C65900BDCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9DF38CD8-578D-4088-9F1D-2551EAD9AD9B}"
+	ProjectSection(SolutionItems) = preProject
+		Разбор арифметического выражения.doc = Разбор арифметического выражения.doc
+		Список возможных ошибок в выражении.txt = Список возможных ошибок в выражении.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E0DE2E-D582-4AD4-A861-80C65900BDCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53E0DE2E-D582-4AD4-A861-80C65900BDCE}.Debug|Win32.Build.0 = Debug|Win32
+		{53E0DE2E-D582-4AD4-A861-80C65900BDCE}.Release|Win32.ActiveCfg = Debug|Win32
+		{53E0DE2E-D582-4AD4-A861-80C65900BDCE}.Release|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
